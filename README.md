@@ -19,3 +19,5 @@ My usual route for a machine learning project is as follows:
 
 
 This might change because PCA has already been applied to the data thus data mining and data discovery techniques might not be worthwhile as we do have information regarding the importance of our variables.
+
+(Work in progress) 1/17/2023
