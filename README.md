@@ -16,4 +16,6 @@ My usual route for a machine learning project is as follows:
 - Create Training/Testing Datasets
 - Build and score models by trainning on the training dataset
 - Model prediction and scoring using test data
+
+
 This might change because PCA has already been applied to the data thus data mining and data discovery techniques might not be worthwhile as we do have information regarding the importance of our variables.
